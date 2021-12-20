@@ -7,9 +7,8 @@
 //LED Flash del ESP32CAM. El led flash parpadea
 //cada 500 ms.
 
-
 //Definición de pines
-#define LAMP 4 //Se selecciona el pin donde se encuentra el led flash
+#define LAMP 5 //Se selecciona el pin donde se encuentra el led flash
 
 //Inicialización del programa
 void setup() //Estructura principal
